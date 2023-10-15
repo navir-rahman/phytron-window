@@ -1,0 +1,1 @@
+{"name":"Local: insert_in_bst","url":"e:\\batch 3\\dsa\\module 21\\insert_in_bst.cpp","tests":[{"id":1689529786475,"input":"20 10 30 -1 15 25 35 -1 -1 -1 -1 -1 -1 13","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\batch 3\\dsa\\module 21\\insert_in_bst.cpp","group":"local","local":true}
